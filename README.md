@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SteezoTheEngineer
 - 👀 I’m interested in Machine Learning, Deep Learning, Medical Imaging
 - 🌱 I’m currently working on a project in the medical field. The aim is to develop a fully automated diagnosis of a specific pathology with a deep learning approach.
-- 💞️ I’m looking to collaborate on everthing what intressts me.
+- 💞️ I’m looking to collaborate on everthing what interests me.
 - 📫 How to reach me contact via github.
 
 <!---
